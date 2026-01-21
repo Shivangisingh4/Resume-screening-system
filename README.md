@@ -19,14 +19,26 @@ This project is an AI-based Resume Screening System that automatically ranks res
 
 ## ▶️ How to Run
 
-1. Create and activate environment
-```bash
+Step 1: Create and activate environment
 conda create -n resume_env python=3.10
 conda activate resume_env
-'''2.Install dependencies
-'''bash
+
+Step 2: Install dependencies
 pip install -r requirements.txt
-'''3.Run application
-'''bash
+
+Step 3: Run the application
 streamlit run app_ui.py
 
+Step 4: Stop the application
+Press Ctrl + C
+
+Step 5: Deactivate environment (optional)
+conda deactivate
+
+Use Case:
+
+Resume screening for HR teams
+
+Internship and placement filtering
+
+Academic AI/ML project demonstration
