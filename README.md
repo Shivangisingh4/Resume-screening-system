@@ -35,7 +35,7 @@ Press Ctrl + C
 Step 5: Deactivate environment (optional)
 conda deactivate
 
-Use Case:
+## Use Case:
 
 Resume screening for HR teams
 
