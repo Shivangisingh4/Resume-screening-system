@@ -23,3 +23,10 @@ This project is an AI-based Resume Screening System that automatically ranks res
 ```bash
 conda create -n resume_env python=3.10
 conda activate resume_env
+'''2.Install dependencies
+'''bash
+pip install -r requirements.txt
+'''3.Run application
+'''bash
+streamlit run app_ui.py
+
